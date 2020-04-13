@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00466B</color>
+    <color name="colorPrimaryDark">#02314D</color>
+    <color name="colorAccent">#115F92</color>
+    <color name="colorTextParams">#FFFFFF</color>
+    <color name="colorTabTitle">#E3E0E0</color>
+    <color name="colorTabTitleSelected">#B5ACAC</color>
+    <color name="startscreen_btns">#C5C5C5</color>
+    <color name="background_editText_startScreen">#3B3233</color>
+    <color name="recItemTint">#11808080</color>
+    <color name="colorTextParamsAddThread">#C1C1C1</color>
+</resources>
